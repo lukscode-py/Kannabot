@@ -1,0 +1,16 @@
+{
+  "dealers": [
+    {
+      "name": "Blox Fruit Dealer",
+      "stock_rotation_hours": 4,
+      "stock_source": "FruityBlox stock page states normal stock updates every 4 hours.",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "name": "Mirage Fruit Dealer",
+      "stock_rotation_hours": 2,
+      "stock_source": "FruityBlox stock page states Mirage stock updates every 2 hours.",
+      "source_url": "https://fruityblox.com/stock"
+    }
+  ]
+}

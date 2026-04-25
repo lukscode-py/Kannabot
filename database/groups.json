@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-25T14:52:53.894Z",
+  "items": {
+    "120363397802551400@g.us": {
+      "id": "120363397802551400@g.us",
+      "stockAlertEnabled": true,
+      "stockNotifyEnabled": true,
+      "emergencyEnabled": true,
+      "lastActivityAt": "2026-04-25T14:12:19.940Z",
+      "updatedAt": "2026-04-25T14:12:19.940Z"
+    },
+    "120363405623606859@g.us": {
+      "id": "120363405623606859@g.us",
+      "stockAlertEnabled": false,
+      "stockNotifyEnabled": false,
+      "emergencyEnabled": false,
+      "lastActivityAt": "2026-04-25T03:42:17.638Z",
+      "updatedAt": "2026-04-25T03:42:17.638Z"
+    },
+    "120363370283646525@g.us": {
+      "id": "120363370283646525@g.us",
+      "stockAlertEnabled": false,
+      "stockNotifyEnabled": false,
+      "emergencyEnabled": false,
+      "lastActivityAt": "2026-04-25T14:52:53.894Z",
+      "updatedAt": "2026-04-25T14:52:53.894Z"
+    }
+  }
+}

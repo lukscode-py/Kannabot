@@ -1,0 +1,58 @@
+[
+  {
+    "fruit": "Spirit",
+    "slug": "spirit",
+    "alias": "Soul",
+    "alias_slug": "soul",
+    "relation": "former_name",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Spirit"
+  },
+  {
+    "fruit": "Tiger",
+    "slug": "tiger",
+    "alias": "Leopard",
+    "alias_slug": "leopard",
+    "relation": "former_name",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Tiger"
+  },
+  {
+    "fruit": "Creation",
+    "slug": "creation",
+    "alias": "Barrier",
+    "alias_slug": "barrier",
+    "relation": "former_name",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Creation"
+  },
+  {
+    "fruit": "Portal",
+    "slug": "portal",
+    "alias": "Door",
+    "alias_slug": "door",
+    "relation": "former_name",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Portal"
+  },
+  {
+    "fruit": "Ghost",
+    "slug": "ghost",
+    "alias": "Revive",
+    "alias_slug": "revive",
+    "relation": "former_name",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Ghost"
+  },
+  {
+    "fruit": "Rocket",
+    "slug": "rocket",
+    "alias": "Kilo",
+    "alias_slug": "kilo",
+    "relation": "former_name",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Rocket"
+  },
+  {
+    "fruit": "Blade",
+    "slug": "blade",
+    "alias": "Chop",
+    "alias_slug": "chop",
+    "relation": "former_name",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Blade"
+  }
+]

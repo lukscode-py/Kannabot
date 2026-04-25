@@ -1,0 +1,381 @@
+[
+  {
+    "fruit": "Gravity",
+    "slug": "gravity",
+    "price_beli": 2500000,
+    "price_robux": 2300,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Gravity"
+    ]
+  },
+  {
+    "fruit": "Mammoth",
+    "slug": "mammoth",
+    "price_beli": 2700000,
+    "price_robux": 2350,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Mammoth"
+    ]
+  },
+  {
+    "fruit": "T-Rex",
+    "slug": "t-rex",
+    "price_beli": 2700000,
+    "price_robux": 2350,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/T-Rex"
+    ]
+  },
+  {
+    "fruit": "Dough",
+    "slug": "dough",
+    "price_beli": 2800000,
+    "price_robux": 2400,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Dough"
+    ]
+  },
+  {
+    "fruit": "Shadow",
+    "slug": "shadow",
+    "price_beli": 2900000,
+    "price_robux": 2425,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Shadow"
+    ]
+  },
+  {
+    "fruit": "Venom",
+    "slug": "venom",
+    "price_beli": 3000000,
+    "price_robux": 2450,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Venom"
+    ]
+  },
+  {
+    "fruit": "Gas",
+    "slug": "gas",
+    "price_beli": 3200000,
+    "price_robux": 2500,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Gas"
+    ]
+  },
+  {
+    "fruit": "Spirit",
+    "slug": "spirit",
+    "price_beli": 3400000,
+    "price_robux": 2550,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Spirit"
+    ]
+  },
+  {
+    "fruit": "Tiger",
+    "slug": "tiger",
+    "price_beli": 5000000,
+    "price_robux": 3000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Tiger"
+    ]
+  },
+  {
+    "fruit": "Yeti",
+    "slug": "yeti",
+    "price_beli": 5000000,
+    "price_robux": 3000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Yeti"
+    ]
+  },
+  {
+    "fruit": "Kitsune",
+    "slug": "kitsune",
+    "price_beli": 8000000,
+    "price_robux": 4000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Kitsune"
+    ]
+  },
+  {
+    "fruit": "Control",
+    "slug": "control",
+    "price_beli": 9000000,
+    "price_robux": 4000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Control"
+    ]
+  },
+  {
+    "fruit": "Dragon",
+    "slug": "dragon",
+    "price_beli": 15000000,
+    "price_robux": 5000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Dragon"
+    ]
+  },
+  {
+    "fruit": "Quake",
+    "slug": "quake",
+    "price_beli": 1000000,
+    "price_robux": 1500,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Quake"
+    ]
+  },
+  {
+    "fruit": "Buddha",
+    "slug": "buddha",
+    "price_beli": 1200000,
+    "price_robux": 1650,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Buddha"
+    ]
+  },
+  {
+    "fruit": "Love",
+    "slug": "love",
+    "price_beli": 1300000,
+    "price_robux": 1700,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Love"
+    ]
+  },
+  {
+    "fruit": "Creation",
+    "slug": "creation",
+    "price_beli": 1400000,
+    "price_robux": 1750,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Creation",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Spider",
+    "slug": "spider",
+    "price_beli": 1500000,
+    "price_robux": 1800,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Spider"
+    ]
+  },
+  {
+    "fruit": "Sound",
+    "slug": "sound",
+    "price_beli": 1700000,
+    "price_robux": 1900,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Sound"
+    ]
+  },
+  {
+    "fruit": "Phoenix",
+    "slug": "phoenix",
+    "price_beli": 1800000,
+    "price_robux": 2000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Phoenix"
+    ]
+  },
+  {
+    "fruit": "Portal",
+    "slug": "portal",
+    "price_beli": 1900000,
+    "price_robux": 2000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Portal",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Lightning",
+    "slug": "lightning",
+    "price_beli": 2100000,
+    "price_robux": 2100,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Lightning"
+    ]
+  },
+  {
+    "fruit": "Pain",
+    "slug": "pain",
+    "price_beli": 2300000,
+    "price_robux": 2200,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Pain"
+    ]
+  },
+  {
+    "fruit": "Blizzard",
+    "slug": "blizzard",
+    "price_beli": 2400000,
+    "price_robux": 2250,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Blizzard"
+    ]
+  },
+  {
+    "fruit": "Light",
+    "slug": "light",
+    "price_beli": 650000,
+    "price_robux": 1100,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Light"
+    ]
+  },
+  {
+    "fruit": "Rubber",
+    "slug": "rubber",
+    "price_beli": 750000,
+    "price_robux": 1200,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Rubber"
+    ]
+  },
+  {
+    "fruit": "Ghost",
+    "slug": "ghost",
+    "price_beli": 940000,
+    "price_robux": 1275,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Ghost"
+    ]
+  },
+  {
+    "fruit": "Magma",
+    "slug": "magma",
+    "price_beli": 960000,
+    "price_robux": 1300,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Magma"
+    ]
+  },
+  {
+    "fruit": "Flame",
+    "slug": "flame",
+    "price_beli": 250000,
+    "price_robux": 550,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Flame",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Ice",
+    "slug": "ice",
+    "price_beli": 350000,
+    "price_robux": 750,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Ice"
+    ]
+  },
+  {
+    "fruit": "Sand",
+    "slug": "sand",
+    "price_beli": 420000,
+    "price_robux": 850,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Sand"
+    ]
+  },
+  {
+    "fruit": "Dark",
+    "slug": "dark",
+    "price_beli": 500000,
+    "price_robux": 950,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Dark"
+    ]
+  },
+  {
+    "fruit": "Eagle",
+    "slug": "eagle",
+    "price_beli": 550000,
+    "price_robux": 975,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Eagle",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Diamond",
+    "slug": "diamond",
+    "price_beli": 600000,
+    "price_robux": 1000,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Diamond"
+    ]
+  },
+  {
+    "fruit": "Rocket",
+    "slug": "rocket",
+    "price_beli": 5000,
+    "price_robux": 50,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Rocket",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Spin",
+    "slug": "spin",
+    "price_beli": 7500,
+    "price_robux": 75,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Spin",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Blade",
+    "slug": "blade",
+    "price_beli": 30000,
+    "price_robux": 100,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Blade",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Spring",
+    "slug": "spring",
+    "price_beli": 60000,
+    "price_robux": 180,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Spring",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Bomb",
+    "slug": "bomb",
+    "price_beli": 80000,
+    "price_robux": 220,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Bomb",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Smoke",
+    "slug": "smoke",
+    "price_beli": 100000,
+    "price_robux": 250,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Smoke",
+      "https://fruityblox.com/stock"
+    ]
+  },
+  {
+    "fruit": "Spike",
+    "slug": "spike",
+    "price_beli": 180000,
+    "price_robux": 380,
+    "source_urls": [
+      "https://blox-fruits.fandom.com/wiki/Spike"
+    ]
+  }
+]

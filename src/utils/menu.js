@@ -1,0 +1,30 @@
+export function buildMenu({ botName, prefix }) {
+  return [
+    `╔══ ${botName} ══╗`,
+    "🍎 Blox Fruits",
+    `${prefix}menu`,
+    `${prefix}stock`,
+    `${prefix}mirage`,
+    `${prefix}fruit nome`,
+    `${prefix}history fruta`,
+    `${prefix}timeleft`,
+    "",
+    "⚙️ Sistema",
+    `${prefix}help`,
+    `${prefix}ping`,
+    "",
+    "👑 Admin",
+    `${prefix}addgroupalertstock`,
+    `${prefix}removegroupalertstock`,
+    `${prefix}addstocknotifygroup`,
+    `${prefix}removestocknotifygroup`,
+    `${prefix}addgroupemergency`,
+    `${prefix}removegroupemergency`,
+    "",
+    "📊 Status",
+    "Alertas inteligentes",
+    "Historico de 3 dias",
+    "Emergencia anti-spam",
+    "╚══════════════╝"
+  ].join("\n");
+}

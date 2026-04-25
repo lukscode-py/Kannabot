@@ -1,0 +1,139 @@
+{
+  "generated_from": "live public stock payload",
+  "fetched_at": "2026-04-25T02:05:09.218Z",
+  "source_url": "https://fruityblox.com/stock",
+  "normal": [
+    {
+      "dealer_type": "normal",
+      "name": "Rocket",
+      "slug": "rocket",
+      "type": "Natural",
+      "price_beli": 5000,
+      "price_robux": 50,
+      "image_url": "https://fruityblox.com/images/fruits/rocket.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "normal",
+      "name": "Spin",
+      "slug": "spin",
+      "type": "Natural",
+      "price_beli": 7500,
+      "price_robux": 75,
+      "image_url": "https://fruityblox.com/images/fruits/spin.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "normal",
+      "name": "Blade",
+      "slug": "blade",
+      "type": "Natural",
+      "price_beli": 30000,
+      "price_robux": 100,
+      "image_url": "https://fruityblox.com/images/fruits/blade.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "normal",
+      "name": "Flame",
+      "slug": "flame",
+      "type": "Elemental",
+      "price_beli": 250000,
+      "price_robux": 550,
+      "image_url": "https://fruityblox.com/images/fruits/flame.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "normal",
+      "name": "Creation",
+      "slug": "creation",
+      "type": "Natural",
+      "price_beli": 1400000,
+      "price_robux": 1750,
+      "image_url": "https://fruityblox.com/images/fruits/creation.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "normal",
+      "name": "Portal",
+      "slug": "portal",
+      "type": "Natural",
+      "price_beli": 1900000,
+      "price_robux": 2000,
+      "image_url": "https://fruityblox.com/images/fruits/portal.webp",
+      "source_url": "https://fruityblox.com/stock"
+    }
+  ],
+  "mirage": [
+    {
+      "dealer_type": "mirage",
+      "name": "Rocket",
+      "slug": "rocket",
+      "type": "Natural",
+      "price_beli": 5000,
+      "price_robux": 50,
+      "image_url": "https://fruityblox.com/images/fruits/rocket.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "mirage",
+      "name": "Spin",
+      "slug": "spin",
+      "type": "Natural",
+      "price_beli": 7500,
+      "price_robux": 75,
+      "image_url": "https://fruityblox.com/images/fruits/spin.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "mirage",
+      "name": "Spring",
+      "slug": "spring",
+      "type": "Natural",
+      "price_beli": 60000,
+      "price_robux": 180,
+      "image_url": "https://fruityblox.com/images/fruits/spring.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "mirage",
+      "name": "Bomb",
+      "slug": "bomb",
+      "type": "Natural",
+      "price_beli": 80000,
+      "price_robux": 220,
+      "image_url": "https://fruityblox.com/images/fruits/bomb.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "mirage",
+      "name": "Smoke",
+      "slug": "smoke",
+      "type": "Elemental",
+      "price_beli": 100000,
+      "price_robux": 250,
+      "image_url": "https://fruityblox.com/images/fruits/smoke.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "mirage",
+      "name": "Flame",
+      "slug": "flame",
+      "type": "Elemental",
+      "price_beli": 250000,
+      "price_robux": 550,
+      "image_url": "https://fruityblox.com/images/fruits/flame.webp",
+      "source_url": "https://fruityblox.com/stock"
+    },
+    {
+      "dealer_type": "mirage",
+      "name": "Eagle",
+      "slug": "eagle",
+      "type": "Beast",
+      "price_beli": 550000,
+      "price_robux": 975,
+      "image_url": "https://fruityblox.com/images/fruits/eagle.webp",
+      "source_url": "https://fruityblox.com/stock"
+    }
+  ]
+}

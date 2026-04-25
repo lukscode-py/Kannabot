@@ -1,0 +1,4 @@
+node_modules
+sessions/*
+!sessions/.gitkeep
+npm-debug.log*

@@ -1,0 +1,673 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-25T14:00:15.534Z",
+  "items": [
+    {
+      "dealerType": "normal",
+      "detectedAt": "2026-04-25T01:28:21.912Z",
+      "fruits": [
+        {
+          "key": "rocket",
+          "name": "Rocket",
+          "namePt": "Foguete",
+          "image": "/images/fruits/rocket.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Fruta simples para mobilidade e inicio de jornada.",
+          "beliPrice": 5000,
+          "permRobuxPrice": 50,
+          "inStock": true,
+          "value": 5000
+        },
+        {
+          "key": "spin",
+          "name": "Spin",
+          "namePt": "Giro",
+          "image": "/images/fruits/spin.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Opcao basica com foco em movimentacao e controle leve.",
+          "beliPrice": 7500,
+          "permRobuxPrice": 75,
+          "inStock": true,
+          "value": 7500
+        },
+        {
+          "key": "blade",
+          "name": "Blade",
+          "namePt": "Lamina",
+          "image": "/images/fruits/blade.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Boa para usuarios iniciantes que gostam de combate direto.",
+          "beliPrice": 30000,
+          "permRobuxPrice": 100,
+          "inStock": true,
+          "value": 50000
+        },
+        {
+          "key": "flame",
+          "name": "Flame",
+          "namePt": "Chama",
+          "image": "/images/fruits/flame.webp",
+          "rarity": "Uncommon",
+          "type": "Elemental",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Boa area e dano consistente.",
+          "beliPrice": 250000,
+          "permRobuxPrice": 550,
+          "inStock": true,
+          "value": 250000
+        },
+        {
+          "key": "creation",
+          "name": "Creation",
+          "namePt": "Creation",
+          "image": "/images/fruits/creation.webp",
+          "rarity": "Desconhecida",
+          "type": "Natural",
+          "roles": [],
+          "description": "Sem descricao detalhada.",
+          "inStock": true
+        },
+        {
+          "key": "portal",
+          "name": "Portal",
+          "namePt": "Portal",
+          "image": "/images/fruits/portal.webp",
+          "rarity": "Legendary",
+          "type": "Natural",
+          "roles": [
+            "travel",
+            "support",
+            "pvp"
+          ],
+          "description": "Mobilidade absurda e muito util em equipes.",
+          "beliPrice": 1900000,
+          "permRobuxPrice": 2000,
+          "inStock": true,
+          "value": 10000000
+        }
+      ],
+      "stockHash": "blade|creation|flame|portal|rocket|spin"
+    },
+    {
+      "dealerType": "mirage",
+      "detectedAt": "2026-04-25T01:28:21.912Z",
+      "fruits": [
+        {
+          "key": "rocket",
+          "name": "Rocket",
+          "namePt": "Foguete",
+          "image": "/images/fruits/rocket.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Fruta simples para mobilidade e inicio de jornada.",
+          "beliPrice": 5000,
+          "permRobuxPrice": 50,
+          "inStock": true,
+          "value": 5000
+        },
+        {
+          "key": "spin",
+          "name": "Spin",
+          "namePt": "Giro",
+          "image": "/images/fruits/spin.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Opcao basica com foco em movimentacao e controle leve.",
+          "beliPrice": 7500,
+          "permRobuxPrice": 75,
+          "inStock": true,
+          "value": 7500
+        },
+        {
+          "key": "blade",
+          "name": "Blade",
+          "namePt": "Lamina",
+          "image": "/images/fruits/blade.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Boa para usuarios iniciantes que gostam de combate direto.",
+          "beliPrice": 30000,
+          "permRobuxPrice": 100,
+          "inStock": true,
+          "value": 50000
+        },
+        {
+          "key": "smoke",
+          "name": "Smoke",
+          "namePt": "Fumaca",
+          "image": "/images/fruits/smoke.webp",
+          "rarity": "Common",
+          "type": "Elemental",
+          "roles": [
+            "farm"
+          ],
+          "description": "Uma logia util no early game.",
+          "beliPrice": 100000,
+          "permRobuxPrice": 250,
+          "inStock": true,
+          "value": 100000
+        },
+        {
+          "key": "ice",
+          "name": "Ice",
+          "namePt": "Gelo",
+          "image": "/images/fruits/ice.webp",
+          "rarity": "Uncommon",
+          "type": "Elemental",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Excelente crowd control e utilidade geral.",
+          "beliPrice": 350000,
+          "permRobuxPrice": 750,
+          "inStock": true,
+          "value": 550000
+        },
+        {
+          "key": "ghost",
+          "name": "Ghost",
+          "namePt": "Fantasma",
+          "image": "/images/fruits/ghost.webp",
+          "rarity": "Rare",
+          "type": "Natural",
+          "roles": [
+            "farm",
+            "support"
+          ],
+          "description": "Utilidade unica e boa para grind.",
+          "beliPrice": 940000,
+          "permRobuxPrice": 1275,
+          "inStock": true,
+          "value": 800000
+        },
+        {
+          "key": "gas",
+          "name": "Gas",
+          "namePt": "Gas",
+          "image": "/images/fruits/gas.webp",
+          "rarity": "Mythical",
+          "type": "Elemental",
+          "roles": [
+            "pvp",
+            "support"
+          ],
+          "description": "Fruta moderna com valor alto e muita curiosidade.",
+          "beliPrice": 3200000,
+          "permRobuxPrice": 2500,
+          "inStock": true,
+          "value": 75000000
+        }
+      ],
+      "stockHash": "blade|gas|ghost|ice|rocket|smoke|spin"
+    },
+    {
+      "dealerType": "mirage",
+      "detectedAt": "2026-04-25T02:15:48.883Z",
+      "fruits": [
+        {
+          "key": "rocket",
+          "name": "Rocket",
+          "namePt": "Foguete",
+          "image": "https://fruityblox.com/images/fruits/rocket.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Fruta simples para mobilidade e inicio de jornada.",
+          "beliPrice": 5000,
+          "permRobuxPrice": 50,
+          "inStock": true,
+          "value": 5000
+        },
+        {
+          "key": "spin",
+          "name": "Spin",
+          "namePt": "Giro",
+          "image": "https://fruityblox.com/images/fruits/spin.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Opcao basica com foco em movimentacao e controle leve.",
+          "beliPrice": 7500,
+          "permRobuxPrice": 75,
+          "inStock": true,
+          "value": 7500
+        },
+        {
+          "key": "spring",
+          "name": "Spring",
+          "namePt": "Mola",
+          "image": "https://fruityblox.com/images/fruits/spring.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Mobilidade divertida, mas fora do meta atual.",
+          "beliPrice": 60000,
+          "permRobuxPrice": 180,
+          "inStock": true,
+          "value": 60000
+        },
+        {
+          "key": "bomb",
+          "name": "Bomb",
+          "namePt": "Bomba",
+          "image": "https://fruityblox.com/images/fruits/bomb.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Explosiva e barata, boa para comecar.",
+          "beliPrice": 80000,
+          "permRobuxPrice": 220,
+          "inStock": true,
+          "value": 80000
+        },
+        {
+          "key": "smoke",
+          "name": "Smoke",
+          "namePt": "Fumaca",
+          "image": "https://fruityblox.com/images/fruits/smoke.webp",
+          "rarity": "Common",
+          "type": "Elemental",
+          "roles": [
+            "farm"
+          ],
+          "description": "Uma logia util no early game.",
+          "beliPrice": 100000,
+          "permRobuxPrice": 250,
+          "inStock": true,
+          "value": 100000
+        },
+        {
+          "key": "flame",
+          "name": "Flame",
+          "namePt": "Chama",
+          "image": "https://fruityblox.com/images/fruits/flame.webp",
+          "rarity": "Uncommon",
+          "type": "Elemental",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Boa area e dano consistente.",
+          "beliPrice": 250000,
+          "permRobuxPrice": 550,
+          "inStock": true,
+          "value": 250000
+        },
+        {
+          "key": "falcon",
+          "name": "Falcon",
+          "namePt": "Falcao",
+          "image": "https://fruityblox.com/images/fruits/eagle.webp",
+          "rarity": "Uncommon",
+          "type": "Beast",
+          "roles": [
+            "farm"
+          ],
+          "description": "Voar cedo ajuda, mas o meta passa longe dela.",
+          "beliPrice": 550000,
+          "permRobuxPrice": 975,
+          "inStock": true,
+          "value": 800000
+        }
+      ],
+      "stockHash": "bomb|falcon|flame|rocket|smoke|spin|spring"
+    },
+    {
+      "dealerType": "normal",
+      "detectedAt": "2026-04-25T13:59:31.518Z",
+      "fruits": [
+        {
+          "key": "rocket",
+          "name": "Rocket",
+          "namePt": "Foguete",
+          "image": "https://fruityblox.com/images/fruits/rocket.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Fruta simples para mobilidade e inicio de jornada.",
+          "beliPrice": 5000,
+          "permRobuxPrice": 50,
+          "inStock": true,
+          "value": 5000
+        },
+        {
+          "key": "spin",
+          "name": "Spin",
+          "namePt": "Giro",
+          "image": "https://fruityblox.com/images/fruits/spin.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Opcao basica com foco em movimentacao e controle leve.",
+          "beliPrice": 7500,
+          "permRobuxPrice": 75,
+          "inStock": true,
+          "value": 7500
+        },
+        {
+          "key": "smoke",
+          "name": "Smoke",
+          "namePt": "Fumaca",
+          "image": "https://fruityblox.com/images/fruits/smoke.webp",
+          "rarity": "Common",
+          "type": "Elemental",
+          "roles": [
+            "farm"
+          ],
+          "description": "Uma logia util no early game.",
+          "beliPrice": 100000,
+          "permRobuxPrice": 250,
+          "inStock": true,
+          "value": 100000
+        },
+        {
+          "key": "buddha",
+          "name": "Buddha",
+          "namePt": "Buda",
+          "image": "https://fruityblox.com/images/fruits/buddha.webp",
+          "rarity": "Legendary",
+          "type": "Beast",
+          "roles": [
+            "farm",
+            "raid",
+            "support"
+          ],
+          "description": "Rainha do farm e de raids no meta geral.",
+          "beliPrice": 1200000,
+          "permRobuxPrice": 1650,
+          "inStock": true,
+          "value": 10000000
+        }
+      ],
+      "stockHash": "buddha|rocket|smoke|spin"
+    },
+    {
+      "dealerType": "mirage",
+      "detectedAt": "2026-04-25T13:59:31.518Z",
+      "fruits": [
+        {
+          "key": "rocket",
+          "name": "Rocket",
+          "namePt": "Foguete",
+          "image": "https://fruityblox.com/images/fruits/rocket.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Fruta simples para mobilidade e inicio de jornada.",
+          "beliPrice": 5000,
+          "permRobuxPrice": 50,
+          "inStock": true,
+          "value": 5000
+        },
+        {
+          "key": "spin",
+          "name": "Spin",
+          "namePt": "Giro",
+          "image": "https://fruityblox.com/images/fruits/spin.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Opcao basica com foco em movimentacao e controle leve.",
+          "beliPrice": 7500,
+          "permRobuxPrice": 75,
+          "inStock": true,
+          "value": 7500
+        },
+        {
+          "key": "bomb",
+          "name": "Bomb",
+          "namePt": "Bomba",
+          "image": "https://fruityblox.com/images/fruits/bomb.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Explosiva e barata, boa para comecar.",
+          "beliPrice": 80000,
+          "permRobuxPrice": 220,
+          "inStock": true,
+          "value": 80000
+        },
+        {
+          "key": "flame",
+          "name": "Flame",
+          "namePt": "Chama",
+          "image": "https://fruityblox.com/images/fruits/flame.webp",
+          "rarity": "Uncommon",
+          "type": "Elemental",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Boa area e dano consistente.",
+          "beliPrice": 250000,
+          "permRobuxPrice": 550,
+          "inStock": true,
+          "value": 250000
+        },
+        {
+          "key": "dark",
+          "name": "Dark",
+          "namePt": "Escuridao",
+          "image": "https://fruityblox.com/images/fruits/dark.webp",
+          "rarity": "Uncommon",
+          "type": "Elemental",
+          "roles": [
+            "pvp",
+            "support"
+          ],
+          "description": "Controle forte e combos perigosos.",
+          "beliPrice": 500000,
+          "permRobuxPrice": 950,
+          "inStock": true,
+          "value": 400000
+        },
+        {
+          "key": "falcon",
+          "name": "Falcon",
+          "namePt": "Falcao",
+          "image": "https://fruityblox.com/images/fruits/eagle.webp",
+          "rarity": "Uncommon",
+          "type": "Beast",
+          "roles": [
+            "farm"
+          ],
+          "description": "Voar cedo ajuda, mas o meta passa longe dela.",
+          "beliPrice": 550000,
+          "permRobuxPrice": 975,
+          "inStock": true,
+          "value": 800000
+        },
+        {
+          "key": "light",
+          "name": "Light",
+          "namePt": "Luz",
+          "image": "https://fruityblox.com/images/fruits/light.webp",
+          "rarity": "Rare",
+          "type": "Elemental",
+          "roles": [
+            "farm",
+            "pvp",
+            "travel"
+          ],
+          "description": "Muito usada para farm e mobilidade.",
+          "beliPrice": 650000,
+          "permRobuxPrice": 1100,
+          "inStock": true,
+          "value": 800000
+        }
+      ],
+      "stockHash": "bomb|dark|falcon|flame|light|rocket|spin"
+    },
+    {
+      "dealerType": "mirage",
+      "detectedAt": "2026-04-25T13:59:31.518Z",
+      "fruits": [
+        {
+          "key": "rocket",
+          "name": "Rocket",
+          "namePt": "Foguete",
+          "image": "https://fruityblox.com/images/fruits/rocket.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Fruta simples para mobilidade e inicio de jornada.",
+          "beliPrice": 5000,
+          "permRobuxPrice": 50,
+          "inStock": true,
+          "value": 5000
+        },
+        {
+          "key": "spin",
+          "name": "Spin",
+          "namePt": "Giro",
+          "image": "https://fruityblox.com/images/fruits/spin.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm"
+          ],
+          "description": "Opcao basica com foco em movimentacao e controle leve.",
+          "beliPrice": 7500,
+          "permRobuxPrice": 75,
+          "inStock": true,
+          "value": 7500
+        },
+        {
+          "key": "blade",
+          "name": "Blade",
+          "namePt": "Lamina",
+          "image": "https://fruityblox.com/images/fruits/blade.webp",
+          "rarity": "Common",
+          "type": "Natural",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Boa para usuarios iniciantes que gostam de combate direto.",
+          "beliPrice": 30000,
+          "permRobuxPrice": 100,
+          "inStock": true,
+          "value": 50000
+        },
+        {
+          "key": "smoke",
+          "name": "Smoke",
+          "namePt": "Fumaca",
+          "image": "https://fruityblox.com/images/fruits/smoke.webp",
+          "rarity": "Common",
+          "type": "Elemental",
+          "roles": [
+            "farm"
+          ],
+          "description": "Uma logia util no early game.",
+          "beliPrice": 100000,
+          "permRobuxPrice": 250,
+          "inStock": true,
+          "value": 100000
+        },
+        {
+          "key": "flame",
+          "name": "Flame",
+          "namePt": "Chama",
+          "image": "https://fruityblox.com/images/fruits/flame.webp",
+          "rarity": "Uncommon",
+          "type": "Elemental",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Boa area e dano consistente.",
+          "beliPrice": 250000,
+          "permRobuxPrice": 550,
+          "inStock": true,
+          "value": 250000
+        },
+        {
+          "key": "ice",
+          "name": "Ice",
+          "namePt": "Gelo",
+          "image": "https://fruityblox.com/images/fruits/ice.webp",
+          "rarity": "Uncommon",
+          "type": "Elemental",
+          "roles": [
+            "farm",
+            "pvp"
+          ],
+          "description": "Excelente crowd control e utilidade geral.",
+          "beliPrice": 350000,
+          "permRobuxPrice": 750,
+          "inStock": true,
+          "value": 550000
+        },
+        {
+          "key": "buddha",
+          "name": "Buddha",
+          "namePt": "Buda",
+          "image": "https://fruityblox.com/images/fruits/buddha.webp",
+          "rarity": "Legendary",
+          "type": "Beast",
+          "roles": [
+            "farm",
+            "raid",
+            "support"
+          ],
+          "description": "Rainha do farm e de raids no meta geral.",
+          "beliPrice": 1200000,
+          "permRobuxPrice": 1650,
+          "inStock": true,
+          "value": 10000000
+        }
+      ],
+      "stockHash": "blade|buddha|flame|ice|rocket|smoke|spin"
+    }
+  ]
+}

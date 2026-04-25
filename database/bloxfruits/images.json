@@ -1,0 +1,289 @@
+[
+  {
+    "fruit": "Gravity",
+    "slug": "gravity",
+    "image_file": "images/gravity.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5f/Gravity_Fruit.png/revision/latest?cb=20250418030958",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Gravity"
+  },
+  {
+    "fruit": "Mammoth",
+    "slug": "mammoth",
+    "image_file": "images/mammoth.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/9/95/Mammoth_Fruit.png/revision/latest?cb=20231027115702",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Mammoth"
+  },
+  {
+    "fruit": "T-Rex",
+    "slug": "t-rex",
+    "image_file": "images/t-rex.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d9/T-Rex_Fruit.png/revision/latest?cb=20231226191220",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/T-Rex"
+  },
+  {
+    "fruit": "Dough",
+    "slug": "dough",
+    "image_file": "images/dough.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/02/Dough_Fruit.png/revision/latest?cb=20231210155057",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Dough"
+  },
+  {
+    "fruit": "Shadow",
+    "slug": "shadow",
+    "image_file": "images/shadow.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/58/Shadow_Fruit.png/revision/latest?cb=20241229033053",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Shadow"
+  },
+  {
+    "fruit": "Venom",
+    "slug": "venom",
+    "image_file": "images/venom.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Venom_Fruit.png/revision/latest?cb=20231027120425",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Venom"
+  },
+  {
+    "fruit": "Gas",
+    "slug": "gas",
+    "image_file": "images/gas.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ed/Gas_Fruit.png/revision/latest?cb=20241223162315",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Gas"
+  },
+  {
+    "fruit": "Spirit",
+    "slug": "spirit",
+    "image_file": "images/spirit.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/Spirit_Fruit.png/revision/latest?cb=20240304190559",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Spirit"
+  },
+  {
+    "fruit": "Tiger",
+    "slug": "tiger",
+    "image_file": "images/tiger.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/Tiger_Fruit.png/revision/latest?cb=20251101005924",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Tiger"
+  },
+  {
+    "fruit": "Yeti",
+    "slug": "yeti",
+    "image_file": "images/yeti.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/Yeti_Fruit.png/revision/latest?cb=20241226020230",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Yeti"
+  },
+  {
+    "fruit": "Kitsune",
+    "slug": "kitsune",
+    "image_file": "images/kitsune.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/65/Kitsune_Fruit.png/revision/latest?cb=20241223162956",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Kitsune"
+  },
+  {
+    "fruit": "Control",
+    "slug": "control",
+    "image_file": "images/control.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/Control_Fruit.png/revision/latest?cb=20251223165924",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Control"
+  },
+  {
+    "fruit": "Dragon",
+    "slug": "dragon",
+    "image_file": "images/dragon.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/29/Dragon_Fruit.png/revision/latest?cb=20241218114129",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Dragon"
+  },
+  {
+    "fruit": "Quake",
+    "slug": "quake",
+    "image_file": "images/quake.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/42/Quake_Fruit.png/revision/latest?cb=20231027115754",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Quake"
+  },
+  {
+    "fruit": "Buddha",
+    "slug": "buddha",
+    "image_file": "images/buddha.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/d/df/Buddha_Fruit.png/revision/latest?cb=20231027115325",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Buddha"
+  },
+  {
+    "fruit": "Love",
+    "slug": "love",
+    "image_file": "images/love.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/Love_Fruit.png/revision/latest?cb=20231027115630",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Love"
+  },
+  {
+    "fruit": "Creation",
+    "slug": "creation",
+    "image_file": "images/creation.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/44/Creation_Fruit.png/revision/latest?cb=20250913215446",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Creation"
+  },
+  {
+    "fruit": "Spider",
+    "slug": "spider",
+    "image_file": "images/spider.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/Spider_Fruit.png/revision/latest?cb=20231027120241",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Spider"
+  },
+  {
+    "fruit": "Sound",
+    "slug": "sound",
+    "image_file": "images/sound.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Sound_Fruit.png/revision/latest?cb=20231027120231",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Sound"
+  },
+  {
+    "fruit": "Phoenix",
+    "slug": "phoenix",
+    "image_file": "images/phoenix.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/Phoenix_Fruit.png/revision/latest?cb=20231027115733",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Phoenix"
+  },
+  {
+    "fruit": "Portal",
+    "slug": "portal",
+    "image_file": "images/portal.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Portal_Fruit.png/revision/latest?cb=20231027115746",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Portal"
+  },
+  {
+    "fruit": "Lightning",
+    "slug": "lightning",
+    "image_file": "images/lightning.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Lightning_Fruit.png/revision/latest?cb=20231027120057",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Lightning"
+  },
+  {
+    "fruit": "Pain",
+    "slug": "pain",
+    "image_file": "images/pain.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Pain_Fruit.png/revision/latest?cb=20231027115724",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Pain"
+  },
+  {
+    "fruit": "Blizzard",
+    "slug": "blizzard",
+    "image_file": "images/blizzard.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Blizzard_Fruit.png/revision/latest?cb=20231027115313",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Blizzard"
+  },
+  {
+    "fruit": "Light",
+    "slug": "light",
+    "image_file": "images/light.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/Light_Fruit.png/revision/latest?cb=20231027115623",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Light"
+  },
+  {
+    "fruit": "Rubber",
+    "slug": "rubber",
+    "image_file": "images/rubber.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Rubber_Fruit.png/revision/latest?cb=20231027120046",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Rubber"
+  },
+  {
+    "fruit": "Ghost",
+    "slug": "ghost",
+    "image_file": "images/ghost.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/Ghost_Fruit.png/revision/latest?cb=20231027115804",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Ghost"
+  },
+  {
+    "fruit": "Magma",
+    "slug": "magma",
+    "image_file": "images/magma.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/2/27/Magma_Fruit.png/revision/latest?cb=20231027115640",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Magma"
+  },
+  {
+    "fruit": "Flame",
+    "slug": "flame",
+    "image_file": "images/flame.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/Flame_Fruit.png/revision/latest?cb=20250421150742",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Flame"
+  },
+  {
+    "fruit": "Ice",
+    "slug": "ice",
+    "image_file": "images/ice.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/Ice_Fruit.png/revision/latest?cb=20231027115604",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Ice"
+  },
+  {
+    "fruit": "Sand",
+    "slug": "sand",
+    "image_file": "images/sand.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/Sand_Fruit.png/revision/latest?cb=20231027120103",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Sand"
+  },
+  {
+    "fruit": "Dark",
+    "slug": "dark",
+    "image_file": "images/dark.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5c/Dark_Fruit.png/revision/latest?cb=20231027115358",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Dark"
+  },
+  {
+    "fruit": "Eagle",
+    "slug": "eagle",
+    "image_file": "images/eagle.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/Eagle_Fruit.png/revision/latest?cb=20250418030931",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Eagle"
+  },
+  {
+    "fruit": "Diamond",
+    "slug": "diamond",
+    "image_file": "images/diamond.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Diamond_Fruit.png/revision/latest?cb=20231027115405",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Diamond"
+  },
+  {
+    "fruit": "Rocket",
+    "slug": "rocket",
+    "image_file": "images/rocket.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/Rocket_Fruit.png/revision/latest?cb=20231027120039",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Rocket"
+  },
+  {
+    "fruit": "Spin",
+    "slug": "spin",
+    "image_file": "images/spin.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/Spin_Fruit.png/revision/latest?cb=20231027120258",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Spin"
+  },
+  {
+    "fruit": "Blade",
+    "slug": "blade",
+    "image_file": "images/blade.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/0/01/Blade_Fruit.png/revision/latest?cb=20241215033604",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Blade"
+  },
+  {
+    "fruit": "Spring",
+    "slug": "spring",
+    "image_file": "images/spring.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/Spring_Fruit.png/revision/latest?cb=20231027120418",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Spring"
+  },
+  {
+    "fruit": "Bomb",
+    "slug": "bomb",
+    "image_file": "images/bomb.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Bomb_Fruit.png/revision/latest?cb=20240304195914",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Bomb"
+  },
+  {
+    "fruit": "Smoke",
+    "slug": "smoke",
+    "image_file": "images/smoke.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7e/Smoke_Fruit.png/revision/latest?cb=20231027120224",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Smoke"
+  },
+  {
+    "fruit": "Spike",
+    "slug": "spike",
+    "image_file": "images/spike.png",
+    "source_url": "https://static.wikia.nocookie.net/roblox-blox-piece/images/c/ce/Spike_Fruit.png/revision/latest?cb=20231027120251",
+    "source_page_url": "https://blox-fruits.fandom.com/wiki/Spike"
+  }
+]

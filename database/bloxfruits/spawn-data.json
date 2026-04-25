@@ -1,0 +1,8 @@
+{
+  "fruit_spawns": [
+    {
+      "rule": "Fruits spawn hourly, or every 45 minutes during weekends.",
+      "source_url": "https://blox-fruits.fandom.com/wiki/Blox_Fruits"
+    }
+  ]
+}

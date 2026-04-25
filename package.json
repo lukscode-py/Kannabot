@@ -1,0 +1,33 @@
+{
+  "name": "nexus-nex",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp profissional focado em Blox Fruits com Baileys, alertas e persistencia MongoDB.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "check": "node --check src/index.js",
+    "migrate:mongodb": "node migrate-mongodb.js --reset-project"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "blox-fruits",
+    "multi-instance",
+    "mongodb",
+    "roblox"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "baileys": "^7.0.0-rc.9",
+    "dotenv": "^16.6.1",
+    "mongodb": "^6.17.0",
+    "node-cache": "^5.1.2",
+    "pino": "^9.3.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

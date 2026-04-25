@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-25T14:06:18.246Z",
+  "emergencyFruits": [
+    "dragon",
+    "kitsune",
+    "yeti",
+    "control"
+  ],
+  "scheduler": {
+    "lastCheckAt": "2026-04-25T14:06:18.045Z",
+    "nextCheckAt": "2026-04-25T16:00:00.000Z"
+  },
+  "stockState": {
+    "normalHash": "f45a586133c5d0279835afb8ef30db70fe4f6ada",
+    "mirageHash": "2755461fcfbb0c9775d2d04f522c93a96d4d1535",
+    "lastStockAt": "2026-04-25T14:06:18.045Z"
+  }
+}

@@ -1,0 +1,330 @@
+[
+  {
+    "fruit": "Gravity",
+    "slug": "gravity",
+    "release_date": "July 14, 2019",
+    "release_update": "Updates/5",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/5",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Gravity"
+  },
+  {
+    "fruit": "Mammoth",
+    "slug": "mammoth",
+    "release_date": "October 21, 2023",
+    "release_update": "Updates/20",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/20",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Mammoth"
+  },
+  {
+    "fruit": "T-Rex",
+    "slug": "t-rex",
+    "release_date": "December 25, 2023",
+    "release_update": "Updates/23",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/23",
+    "source_url": "https://blox-fruits.fandom.com/wiki/T-Rex"
+  },
+  {
+    "fruit": "Dough",
+    "slug": "dough",
+    "release_date": "December 25, 2019",
+    "release_update": "Updates/9",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/9",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Dough"
+  },
+  {
+    "fruit": "Shadow",
+    "slug": "shadow",
+    "release_date": "November 05, 2021",
+    "release_update": "Updates/16",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/16",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Shadow"
+  },
+  {
+    "fruit": "Venom",
+    "slug": "venom",
+    "release_date": "September 11, 2021",
+    "release_update": "Updates/15",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/15",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Venom"
+  },
+  {
+    "fruit": "Gas",
+    "slug": "gas",
+    "release_date": "December 14, 2024",
+    "release_update": "Updates/24",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/24",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Gas"
+  },
+  {
+    "fruit": "Spirit",
+    "slug": "spirit",
+    "release_date": "December 31, 2021",
+    "release_update": "Updates/17.1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/17.1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Spirit"
+  },
+  {
+    "fruit": "Tiger",
+    "slug": "tiger",
+    "release_date": "October 31, 2025",
+    "release_update": "Updates/28",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/28",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Tiger"
+  },
+  {
+    "fruit": "Yeti",
+    "slug": "yeti",
+    "release_date": "December 25, 2024",
+    "release_update": "Updates/25",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/25",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Yeti"
+  },
+  {
+    "fruit": "Kitsune",
+    "slug": "kitsune",
+    "release_date": "December 15, 2023",
+    "release_update": "Updates/22",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/22",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Kitsune"
+  },
+  {
+    "fruit": "Control",
+    "slug": "control",
+    "release_date": "April 17, 2020",
+    "release_update": "Updates/10",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/10",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Control"
+  },
+  {
+    "fruit": "Dragon",
+    "slug": "dragon",
+    "release_date": "December 23, 2020",
+    "release_update": "Updates/13",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/13",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Dragon"
+  },
+  {
+    "fruit": "Quake",
+    "slug": "quake",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Quake"
+  },
+  {
+    "fruit": "Buddha",
+    "slug": "buddha",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Buddha"
+  },
+  {
+    "fruit": "Love",
+    "slug": "love",
+    "release_date": "September 11, 2021",
+    "release_update": "Updates/15",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/15",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Love"
+  },
+  {
+    "fruit": "Creation",
+    "slug": "creation",
+    "release_date": "April 17, 2025",
+    "release_update": "Updates/26",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/26",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Creation"
+  },
+  {
+    "fruit": "Spider",
+    "slug": "spider",
+    "release_date": "June 30, 2019",
+    "release_update": "Updates/3",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/3",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Spider"
+  },
+  {
+    "fruit": "Sound",
+    "slug": "sound",
+    "release_date": "October 21, 2023",
+    "release_update": "Updates/20",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/20",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Sound"
+  },
+  {
+    "fruit": "Phoenix",
+    "slug": "phoenix",
+    "release_date": "June 16, 2019",
+    "release_update": "Updates/2",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/2",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Phoenix"
+  },
+  {
+    "fruit": "Portal",
+    "slug": "portal",
+    "release_date": "December 26, 2022",
+    "release_update": "Money",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Money",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Portal"
+  },
+  {
+    "fruit": "Lightning",
+    "slug": "lightning",
+    "release_date": "June 30, 2019",
+    "release_update": "Updates/3",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/3",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Lightning"
+  },
+  {
+    "fruit": "Pain",
+    "slug": "pain",
+    "release_date": "August 11, 2019",
+    "release_update": "Updates/7",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/7",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Pain"
+  },
+  {
+    "fruit": "Blizzard",
+    "slug": "blizzard",
+    "release_date": "December 26, 2022",
+    "release_update": "Money",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Money",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Blizzard"
+  },
+  {
+    "fruit": "Light",
+    "slug": "light",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Light"
+  },
+  {
+    "fruit": "Rubber",
+    "slug": "rubber",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Rubber"
+  },
+  {
+    "fruit": "Ghost",
+    "slug": "ghost",
+    "release_date": "November 05, 2021",
+    "release_update": "Updates/16",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/16",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Ghost"
+  },
+  {
+    "fruit": "Magma",
+    "slug": "magma",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Magma"
+  },
+  {
+    "fruit": "Flame",
+    "slug": "flame",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Flame"
+  },
+  {
+    "fruit": "Ice",
+    "slug": "ice",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Ice"
+  },
+  {
+    "fruit": "Sand",
+    "slug": "sand",
+    "release_date": "July 07, 2019",
+    "release_update": "Updates/4",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/4",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Sand"
+  },
+  {
+    "fruit": "Dark",
+    "slug": "dark",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Dark"
+  },
+  {
+    "fruit": "Eagle",
+    "slug": "eagle",
+    "release_date": "April 17, 2025",
+    "release_update": "Updates/26",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/26",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Eagle"
+  },
+  {
+    "fruit": "Diamond",
+    "slug": "diamond",
+    "release_date": "September 11, 2021",
+    "release_update": "Updates/15",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/15",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Diamond"
+  },
+  {
+    "fruit": "Rocket",
+    "slug": "rocket",
+    "release_date": "October 21, 2023",
+    "release_update": "Updates/20",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/20",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Rocket"
+  },
+  {
+    "fruit": "Spin",
+    "slug": "spin",
+    "release_date": "September 11, 2021",
+    "release_update": "Updates/15",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/15",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Spin"
+  },
+  {
+    "fruit": "Blade",
+    "slug": "blade",
+    "release_date": "December 14, 2024",
+    "release_update": "Updates/24",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/24",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Blade"
+  },
+  {
+    "fruit": "Spring",
+    "slug": "spring",
+    "release_date": "June 16, 2019",
+    "release_update": "Updates/2",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/2",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Spring"
+  },
+  {
+    "fruit": "Bomb",
+    "slug": "bomb",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Bomb"
+  },
+  {
+    "fruit": "Smoke",
+    "slug": "smoke",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Smoke"
+  },
+  {
+    "fruit": "Spike",
+    "slug": "spike",
+    "release_date": "January 16, 2019",
+    "release_update": "Updates/1",
+    "release_update_url": "https://blox-fruits.fandom.com/wiki/Updates/1",
+    "source_url": "https://blox-fruits.fandom.com/wiki/Spike"
+  }
+]

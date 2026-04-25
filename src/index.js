@@ -49,6 +49,7 @@ async function createQrInstance(rl, manager) {
 async function createPairingInstance(rl, manager) {
   const rawId = await rl.question("Informe o nome da instancia: ");
   const rawPhone = await rl.question("Informe o numero com DDI/DDD (ex: 5574999999999): ");
+
   const instanceId = sanitizeInstanceId(rawId);
   const phoneNumber = rawPhone.replace(/\D/g, "");
 
@@ -123,6 +124,26 @@ async function main() {
   const manager = new InstanceManager();
   await manager.init();
 
+  const isRenderAuto = process.env.RENDER === "1";
+
+  // 🔥 MODO RENDER (SEM CLI / SEM READLINE)
+  if (isRenderAuto) {
+    try {
+      logger.info("app", "RENDER=1 detectado. Iniciando instancias automaticamente...");
+
+      await manager.startSavedInstances();
+
+      logger.info("app", "Instancias iniciadas. Processo rodando em modo servidor.");
+
+      // Mantém processo vivo sem CLI
+      return;
+    } catch (error) {
+      logger.error("app", "Erro ao iniciar instancias automaticamente.", error);
+      process.exit(1);
+    }
+  }
+
+  // 🔥 MODO CLI LOCAL
   const rl = readline.createInterface({ input, output });
   let shuttingDown = false;
 
@@ -138,22 +159,6 @@ async function main() {
 
   process.on("SIGINT", shutdown);
   process.on("SIGTERM", shutdown);
-
-  // 🔥 NOVO: modo automático para Render
-  const isRenderAuto = process.env.RENDER === "1";
-
-  if (isRenderAuto) {
-    try {
-      logger.info("app", "RENDER=1 detectado. Iniciando todas as instancias automaticamente...");
-
-      await manager.startSavedInstances();
-
-      // opcional: se quiser não abrir menu no render, apenas fica rodando
-      // sem interação do usuário
-    } catch (error) {
-      logger.error("app", "Erro ao iniciar instancias automaticamente.", error);
-    }
-  }
 
   while (true) {
     const option = (await askMenu(rl)).trim();

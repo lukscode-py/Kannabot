@@ -127,9 +127,7 @@ async function main() {
   let shuttingDown = false;
 
   const shutdown = async () => {
-    if (shuttingDown) {
-      return;
-    }
+    if (shuttingDown) return;
 
     shuttingDown = true;
     logger.info("app", "Encerrando aplicacao...");
@@ -140,6 +138,22 @@ async function main() {
 
   process.on("SIGINT", shutdown);
   process.on("SIGTERM", shutdown);
+
+  // 🔥 NOVO: modo automático para Render
+  const isRenderAuto = process.env.RENDER === "1";
+
+  if (isRenderAuto) {
+    try {
+      logger.info("app", "RENDER=1 detectado. Iniciando todas as instancias automaticamente...");
+
+      await manager.startSavedInstances();
+
+      // opcional: se quiser não abrir menu no render, apenas fica rodando
+      // sem interação do usuário
+    } catch (error) {
+      logger.error("app", "Erro ao iniciar instancias automaticamente.", error);
+    }
+  }
 
   while (true) {
     const option = (await askMenu(rl)).trim();
